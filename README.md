@@ -5,7 +5,9 @@ I am Nikhil CG, a master student at Carnegie Mellon University focusing on Robot
 - 🌱 I’m currently learning Deep Learning, Optimal Control and Reinforcement Learning, Computer Vision and Robot Dynamics and Analysis.
 - 🤔 I’m looking for help with full time oppurtunites in Robotics and Control Systems
 - 📫 You can reach me at:
-  <a href="https://github.com/NikhilCG26" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/nikhilcg/" target="_blank"><img alt="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  
+  <p><a href="https://github.com/NikhilCG26" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  
+     <a href="https://www.linkedin.com/in/nikhilcg/" target="_blank"><img alt="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
 
 <!--
 **NikhilCG26/NikhilCG26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
