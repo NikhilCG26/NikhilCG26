@@ -1,11 +1,13 @@
 ### Hi there 👋
+I am Nikhil CG, a master student at Carnegie Mellon University focusing on Robotics, Control Systems, Deep Learning and Computer Vision.
 
+- 🔭 I’m currently working as a research assistant in the Robomechanics Lab under Dr. Aaron Johnson
 <!--
 **NikhilCG26/NikhilCG26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
