@@ -6,8 +6,11 @@ I am Nikhil CG, a master student at Carnegie Mellon University focusing on Robot
 - 🤔 I’m looking for help with full time oppurtunites in Robotics and Control Systems
 - 📫 You can reach me at:
   
-  <p><a href="https://github.com/NikhilCG26" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  
-     <a href="https://www.linkedin.com/in/nikhilcg/" target="_blank"><img alt="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <p>
+  <a href="mailto:nchinnal@andrew.cmu.edu" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
+  <a href="https://github.com/NikhilCG26" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  
+  <a href="https://www.linkedin.com/in/nikhilcg/" target="_blank"><img alt="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  </p>
 
 <!--
 **NikhilCG26/NikhilCG26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
