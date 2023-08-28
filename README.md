@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Nikhil CG, a master student at Carnegie Mellon University focusing on Robotics, Control Systems, Deep Learning and Computer Vision.
 
-- 🔭 I’m currently working as a research assistant in the Robomechanics Lab under Dr. Aaron Johnson with research focus on computational design optimization of a Quadruped Robot with a Spine using Robotic simulation on ROS and devicing a hierarchical MPC controller.
+- 🔭 I’m currently working as a research assistant in the Robomechanics Lab under Dr. Aaron Johnson with research focus on computational design optimization of a Quadruped Robot with a Spine using Robotic simulation on ROS and devising a hierarchical MPC controller.
 - 🌱 I’m currently learning Deep Learning, Optimal Control and Reinforcement Learning, Computer Vision and Robot Dynamics and Analysis.
 - 🤔 I’m looking for help with full time oppurtunites in Robotics and Control Systems
 - 📫 You can reach me at:
